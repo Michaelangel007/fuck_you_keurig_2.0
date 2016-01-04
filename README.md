@@ -26,7 +26,7 @@ For more detailed instructions search You-Tube for: ["Keurig 2.0 hack"](https://
 
 1. Use one official Keurig "authorized" K-cup.  Keep it from becoming damaged.
 2. Turn it upside down.
-3. Make a "shim" with an X-Acto hobby knife by cutting off everything "above" the plastic O-ring.
+3. Make a "shim" with a [X-ACTO hobby knife](https://www.google.com/search?q=X-Acto+hobby+knife&tbm=isch) by cutting off everything "above" the plastic O-ring.
 4. Cut a hole/square in the middle.
 
 Since a picture is worth a thousand words ...
