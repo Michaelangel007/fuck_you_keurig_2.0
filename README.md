@@ -1,5 +1,5 @@
 # fuck_you_keurig_2.0
-Soft-mod and Hard-mod description for the Keurig 2.0
+Summary: Soft-mod and Hard-mod description to fix the broken by design Keurig 2.0.
 
 
 = Problem =
