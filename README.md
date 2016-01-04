@@ -6,9 +6,13 @@ Summary: Soft-mod and Hard-mod description to fix the broken-by-design DRM Keuri
 
 Greed corrupts everything.
 
-When you use an non "authorized" K-cup you get this shenanigans "Oops" message.
+When you use an non-"authorized" K-cup ...
 
-![Oops shenanigans](1_problem_oops.jpg?raw=true)
+ ![Non-authorized](0_choc_cup.jpg?raw=true)
+
+... you get this shenanigans "Oops" message.
+
+ ![Oops shenanigans](1_problem_oops.jpg?raw=true)
 
 = Solutions =
 
@@ -27,9 +31,9 @@ For more detailed instructions search You-Tube for: ["Keurig 2.0 hack"](https://
 
 Since a picture is worth a thousand words ...
 
-![Shim Top](2_solution_shim_top.jpg)
+![Shim Top](2_solution_shim_top.jpg?raw=true)
 
-![Shim Bottom](3_solution_shim_bot.jpg)
+![Shim Bottom](3_solution_shim_bot.jpg?raw=true)
 
 To use the shim:
 
@@ -38,11 +42,11 @@ To use the shim:
 3. Put the shim over top
 4. Close the lid.
 
- ![Shim use](4_use_shim.jpg)
+ ![Shim use](4_use_shim.jpg?raw=true)
 
 5. Give Keurig the middle finger for not respecting your time, space, or money.
 
- ![F.U. Keurig](5_success_menu.jpg)
+ ![F.U. Keurig](5_success_menu.jpg?raw=true)
 
 6. Enjoy your beverage.
 
