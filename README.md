@@ -18,7 +18,7 @@ When you use an non-"authorized" K-cup ...
 
 == Hard Mod ==
 
-1. Cut the green wire
+1. Cut the <font color="#080">green</font> wire
 
 For more detailed instructions search You-Tube for: ["Keurig 2.0 hack"](https://www.youtube.com/results?search_query=keuring+2.0+hack)
 
