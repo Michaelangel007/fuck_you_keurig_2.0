@@ -75,3 +75,9 @@ There is only one appropriate (consumer) answer:
 
     Fuck You Keurig 2.0.
 
+---
+_"The reasonable man adapts himself to the conditions that surround him._
+_The unreasonable man adapts surrounding conditions to himself._
+All progress depends on the unreasonable man."
+  -- George Bernard Shaw
+
