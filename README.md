@@ -23,7 +23,7 @@ When you (attempt to) use an non-"authorized" K-cup ...
 
 There are 3 possible solutions:
 
-1. Permanent (Hard modification),
+1. Permanent (Hard http://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=keurig+freedom+clipmodification),
 2. Temporary (Soft modification), or
 3. Don't use or support corporate greed.
 
@@ -41,7 +41,7 @@ For more detailed instructions search You-Tube for: ["Keurig 2.0 hack"](https://
 
 1. Use one official Keurig "authorized" K-cup.  Keep it from becoming damaged.
 2. Turn it upside down.
-3. Make a "shim" with a [X-ACTO hobby knife](https://www.google.com/search?q=X-Acto+hobby+knife&tbm=isch) by cutting off everything "above" the plastic O-ring.
+3. Make a "shim" with a [X-ACTO hobby knife](https://www.google.com/search?q=X-Acto+hobby+knife&tbm=isch) by cutting off everything "above" the plastic O-ring. You might also want to keep a "small lip" so it stays in place.
 4. Cut a hole/square in the middle.
 
 Since a picture is worth a thousand words (when you are trying to waste space) ...
@@ -49,6 +49,8 @@ Since a picture is worth a thousand words (when you are trying to waste space) .
 ![Shim Top](2_solution_shim_top.jpg?raw=true)
 
 ![Shim Bottom](3_solution_shim_bot.jpg?raw=true)
+
+An alternative solution is the [Freedom Clip](http://www.amazon.com/s/?field-keywords=keurig+freedom+clip)
 
 
 ### === Shim Installation ===
