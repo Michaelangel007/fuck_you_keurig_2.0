@@ -8,20 +8,20 @@ _"I just want a cup of hot chocolate ..."_
 
 Greed corrupts everything.
 
-*sigh*
+*sigh.*
 
-When you use an non-"authorized" K-cup ...
+When you (attempt to) use an non-"authorized" K-cup ...
 
  ![Non-authorized](0_choc_cup.jpg?raw=true)
 
-... you get this shenanigans "Oops" message.
+... you get this shenanigans "Oops!" message:
 
  ![Oops shenanigans](1_problem_oops.jpg?raw=true)
 
 
 # = Solutions =
 
-There are 3 solutions:
+There are 3 possible solutions:
 
 1. Permanent (Hard modification),
 2. Temporary (Soft modification), or
@@ -68,8 +68,9 @@ To use the shim:
 
 6. Enjoy your beverage. (Finally!) 
 
- /sarcasm _"Oh noes!_ You're breaking the Law by circumventing DRM. How dare you use **your machine** _your way_ and not bow down to the corporate abuse of power."
+ /sarcasm _"Oh noes!_ You're breaking the Law by circumventing DRM. How dare you use **your machine** _your way_ and not bow down to the corporate abuse of proprietary [vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in) for the sole purpose of commericial gain."
 
+ When is this insanity of patents and not treating the customer with respect going to stop?
 
 ## == How it works ==
 
@@ -89,6 +90,7 @@ There is only one appropriate (consumer) answer:
     Fuck You Keurig 2.0.
 
 ---
+
 _"The reasonable man adapts himself to the conditions that surround him._
 _The unreasonable man adapts surrounding conditions to himself._
 _All progress depends on the unreasonable man."_
