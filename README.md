@@ -23,9 +23,9 @@ When you (attempt to) use an non-"authorized" K-cup ...
 
 There are 3 possible solutions:
 
-1. Permanent (Hard mod)
+1. Permanent (Hard modification)
 2. Temporary (Soft modification), or
-3. Don't use or support corporate greed.
+3. Don't use or support corporate greed. i.e Make it the old fashioned way, use another brand, etc.
 
 
 ## == Hard Mod ==
