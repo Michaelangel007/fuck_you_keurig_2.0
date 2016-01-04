@@ -16,6 +16,12 @@ When you use an non-"authorized" K-cup ...
 
 = Solutions =
 
+There are 3 solutions:
+
+1. Permanent (Hard modification)
+2. Temporary (Soft modification)
+3. Don't use or support corporate greed.
+
 == Hard Mod ==
 
 1. Cut the <font color="#080">green</font> wire
