@@ -2,7 +2,9 @@
 Summary: Soft-mod and Hard-mod description to fix the broken-by-design DRM Keurig 2.0.
 
 
-= Problem =
+# = Problem =
+
+_"I just want a cup of hot chocolate ..."_
 
 Greed corrupts everything.
 
@@ -14,7 +16,7 @@ When you use an non-"authorized" K-cup ...
 
  ![Oops shenanigans](1_problem_oops.jpg?raw=true)
 
-= Solutions =
+# = Solutions =
 
 There are 3 solutions:
 
@@ -22,13 +24,13 @@ There are 3 solutions:
 2. Temporary (Soft modification)
 3. Don't use or support corporate greed.
 
-== Hard Mod ==
+## == Hard Mod ==
 
-1. Cut the <font color="#080">green</font> wire
+1. Cut the <font color="#080">*green*</font> wire
 
 For more detailed instructions search You-Tube for: ["Keurig 2.0 hack"](https://www.youtube.com/results?search_query=keuring+2.0+hack)
 
-== Soft Mod ==
+## == Soft Mod ==
 
 1. Use one official Keurig "authorized" K-cup.  Keep it from becoming damaged.
 2. Turn it upside down.
@@ -40,6 +42,8 @@ Since a picture is worth a thousand words ...
 ![Shim Top](2_solution_shim_top.jpg?raw=true)
 
 ![Shim Bottom](3_solution_shim_bot.jpg?raw=true)
+
+### === Shim Installation ===
 
 To use the shim:
 
@@ -59,13 +63,14 @@ To use the shim:
  /sarcasm _"Oh noes!_ You're breaking the Law by circumventing DRM. How dare you use **your machine** _your way_ and not bow down to the corporate abuse of power."
 
 
-== How it works ==
+## == How it works ==
 
 The white ring is encoded with data that identifies the manufactor and type of K-cup.
 This "hack" tricks the sensor to "see" (read) the "authentic" white O-ring
 making it "think" that the non-authentic K-Cup is actually authentic.
 
-= Summary =
+
+# = Summary =
 
 Congratulations humanity for reaching a new low on stupidity in 2014:
 
