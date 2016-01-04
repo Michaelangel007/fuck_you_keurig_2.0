@@ -23,7 +23,7 @@ When you (attempt to) use an non-"authorized" K-cup ...
 
 There are 3 possible solutions:
 
-1. Permanent (Hard http://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=keurig+freedom+clipmodification),
+1. Permanent (Hard mod)
 2. Temporary (Soft modification), or
 3. Don't use or support corporate greed.
 
