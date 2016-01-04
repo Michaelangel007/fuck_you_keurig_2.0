@@ -23,8 +23,8 @@ When you use an non-"authorized" K-cup ...
 
 There are 3 solutions:
 
-1. Permanent (Hard modification)
-2. Temporary (Soft modification)
+1. Permanent (Hard modification),
+2. Temporary (Soft modification), or
 3. Don't use or support corporate greed.
 
 
@@ -73,16 +73,16 @@ To use the shim:
 
 ## == How it works ==
 
-The white ring is encoded with data that identifies the manufactor and type of K-cup.
+The white ring is encoded with data that identifies the manufacture and type of K-cup.
 This "hack" tricks the sensor to "see" (read) the "authentic" white O-ring
 making it "think" that the non-authentic K-Cup is actually authentic.
 
 
 # = Summary =
 
-Congratulations humanity for reaching a new low on stupidity in 2014:
+Congratulations humanity for reaching _a new low on stupidity_ in 2014:
 
-    DRM on Coffee / Tea / Hot Choculate? WTF!
+    DRM on Coffee / Tea / Hot Chocolate? WTF!
 
 There is only one appropriate (consumer) answer:
 
