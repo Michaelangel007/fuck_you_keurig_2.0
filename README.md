@@ -50,7 +50,7 @@ making it "think" that the non-authentic K-Cup is actually authentic.
 
 Congratulations humanity for reaching a new low on stupidity in 2014:
 
-    DRM on Coffee / Tea / Hot Choculate.
+    DRM on Coffee / Tea / Hot Choculate? WTF!
 
 There is only one appropriate (consumer) answer:
 
