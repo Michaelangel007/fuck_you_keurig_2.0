@@ -48,7 +48,9 @@ To use the shim:
 
  ![F.U. Keurig](5_success_menu.jpg?raw=true)
 
-6. Enjoy your beverage.
+6. Enjoy your beverage. (Finally!) 
+
+ /sarcasm _"Oh noes! You're breaking the Law by circumventing DRM. How dare you use **your machine** _your_ way and not bow down to the corporate abuse of power."_
 
 
 == How it works ==
