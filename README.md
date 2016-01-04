@@ -8,7 +8,7 @@ Greed corrupts everything.
 
 When you use an non "authorized" K-cup you get this shenanigans "Oops" message.
 
-
+![Oops shenanigans](1_problem_oops.jpg?raw=true)
 
 = Solutions =
 
