@@ -2,12 +2,22 @@
 Soft-mod and Hard-mod description for the Keurig 2.0
 
 
-= Hard Mod =
+= Problem =
+
+Greed corrupts everything.
+
+When you use an non "authorized" K-cup you get this shenanigans "Oops" message.
+
+
+
+= Solutions =
+
+== Hard Mod ==
 
 1. Cut the green wire
+For more detailed instructions search You-Tube for: ["Keurig 2.0 hack"](https://www.youtube.com/results?search_query=keuring+2.0+hack)
 
-
-= Soft Mod =
+== Soft Mod ==
 
 1. Use one official Keurig "authorized" K-cup.  Keep it from becoming damaged.
 2. Turn it upside down.
@@ -21,7 +31,10 @@ To use the shim:
 3. Put the shim over top
 4. Close the lid.
 
-= How it works =
+
+== How it works ==
 
 The white ring is encoded with data that identifies the manufactor and type of K-cup.
+This "hack" works because the sensor reads the "authentic" white ring tricking
+the machine that the K-Cup is also authentic.
 
