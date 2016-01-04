@@ -38,11 +38,11 @@ To use the shim:
 3. Put the shim over top
 4. Close the lid.
 
-![Shim use](4_use_shim.jpg)
+ ![Shim use](4_use_shim.jpg)
 
 5. Give Keurig the middle finger for not respecting your time, space, or money.
 
-![F.U. Keurig](5_success_menu.jpg)
+ ![F.U. Keurig](5_success_menu.jpg)
 
 6. Enjoy your beverage.
 
