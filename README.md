@@ -8,6 +8,8 @@ _"I just want a cup of hot chocolate ..."_
 
 Greed corrupts everything.
 
+*sigh*
+
 When you use an non-"authorized" K-cup ...
 
  ![Non-authorized](0_choc_cup.jpg?raw=true)
@@ -15,6 +17,7 @@ When you use an non-"authorized" K-cup ...
 ... you get this shenanigans "Oops" message.
 
  ![Oops shenanigans](1_problem_oops.jpg?raw=true)
+
 
 # = Solutions =
 
@@ -24,11 +27,15 @@ There are 3 solutions:
 2. Temporary (Soft modification)
 3. Don't use or support corporate greed.
 
+
 ## == Hard Mod ==
 
-1. Cut the <font color="#080">*green*</font> wire
+1. Cut the <font color="#080">**green**</font> wire 
+
+ And here you thought all those dumb defuse-the-bomb movies couldn't teach you anything :-)
 
 For more detailed instructions search You-Tube for: ["Keurig 2.0 hack"](https://www.youtube.com/results?search_query=keuring+2.0+hack)
+
 
 ## == Soft Mod ==
 
@@ -37,11 +44,12 @@ For more detailed instructions search You-Tube for: ["Keurig 2.0 hack"](https://
 3. Make a "shim" with a [X-ACTO hobby knife](https://www.google.com/search?q=X-Acto+hobby+knife&tbm=isch) by cutting off everything "above" the plastic O-ring.
 4. Cut a hole/square in the middle.
 
-Since a picture is worth a thousand words ...
+Since a picture is worth a thousand words (when you are trying to waste space) ...
 
 ![Shim Top](2_solution_shim_top.jpg?raw=true)
 
 ![Shim Bottom](3_solution_shim_bot.jpg?raw=true)
+
 
 ### === Shim Installation ===
 
